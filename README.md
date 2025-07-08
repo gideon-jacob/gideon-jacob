@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31365%26project%3D%26in=604800000)](https://codetime.dev)
+[![WakaTime Stats](https://wakatime.com/share/@e9dac7fc-c94f-4e25-8e1d-3c176cc6ab87/6e757909-9a6f-442a-8167-8c0df8a70ae5.png)](https://wakatime.com)
+
 <!--
 **gideon-jacob/gideon-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
