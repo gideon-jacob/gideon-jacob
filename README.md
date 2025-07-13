@@ -1,8 +1,7 @@
 ## Hi there 👋
 <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@e9dac7fc-c94f-4e25-8e1d-3c176cc6ab87/6e757909-9a6f-442a-8167-8c0df8a70ae5.png" width="40%" />
+  <img src="https://wakatime.com/share/@e9dac7fc-c94f-4e25-8e1d-3c176cc6ab87/3bf9aac1-a0d9-4548-bf38-f8bb3812d577.svg" width="50%" />
 </a>
-
 
 <!--
 **gideon-jacob/gideon-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
